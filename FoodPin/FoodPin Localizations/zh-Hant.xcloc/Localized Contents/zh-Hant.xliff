@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="FoodPin/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="zh-Hant">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.2" build-num="14C18"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>FoodPin</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
+        <source>You need to grant the app access to your camera in order to take photos.</source>
+        <note>Privacy - Camera Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSPhotoLibraryUsageDescription" xml:space="preserve">
+        <source>You need to grant the app access to your photo library so you can pick your favorite restaurant photo.</source>
+        <note>Privacy - Photo Library Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="FoodPin/en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="zh-Hant">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.2" build-num="14C18"/>
+    </header>
+    <body>
+      <trans-unit id="%@" xml:space="preserve">
+        <source>%@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="ADDRESS" xml:space="preserve">
+        <source>ADDRESS</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About" xml:space="preserve">
+        <source>About</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cafe" xml:space="preserve">
+        <source>Cafe</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Camera" xml:space="preserve">
+        <source>Camera</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Choose your photo source" xml:space="preserve">
+        <source>Choose your photo source</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DESCRIPTION" xml:space="preserve">
+        <source>DESCRIPTION</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Discover" xml:space="preserve">
+        <source>Discover</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Facebook" xml:space="preserve">
+        <source>Facebook</source>
+        <note>Facebook</note>
+      </trans-unit>
+      <trans-unit id="Favorites" xml:space="preserve">
+        <source>Favorites</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Fill in the restaurant address" xml:space="preserve">
+        <source>Fill in the restaurant address</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Fill in the restaurant name" xml:space="preserve">
+        <source>Fill in the restaurant name</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Fill in the restaurant phone" xml:space="preserve">
+        <source>Fill in the restaurant phone</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Fill in the restaurant type" xml:space="preserve">
+        <source>Fill in the restaurant type</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="FoodPin" xml:space="preserve">
+        <source>FoodPin</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="GET STARTED" xml:space="preserve">
+        <source>GET STARTED</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Instagram" xml:space="preserve">
+        <source>Instagram</source>
+        <note>Instagram</note>
+      </trans-unit>
+      <trans-unit id="Mark as favorite" xml:space="preserve">
+        <source>Mark as favorite</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="NAME" xml:space="preserve">
+        <source>NAME</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="NEXT" xml:space="preserve">
+        <source>NEXT</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="New Restaurant" xml:space="preserve">
+        <source>New Restaurant</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Not yet available" xml:space="preserve">
+        <source>Not yet available</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="OK" xml:space="preserve">
+        <source>OK</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="PHONE" xml:space="preserve">
+        <source>PHONE</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Photo Library" xml:space="preserve">
+        <source>Photo Library</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Rate it" xml:space="preserve">
+        <source>Rate it</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Rate us on App Store" xml:space="preserve">
+        <source>Rate us on App Store</source>
+        <note>Rate us on App Store</note>
+      </trans-unit>
+      <trans-unit id="Remove from favorites" xml:space="preserve">
+        <source>Remove from favorites</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Reserve a table" xml:space="preserve">
+        <source>Reserve a table</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Save" xml:space="preserve">
+        <source>Save</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Search restaurants..." xml:space="preserve">
+        <source>Search restaurants...</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Share" xml:space="preserve">
+        <source>Share</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Skip" xml:space="preserve">
+        <source>Skip</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Sorry, this feature is not available yet. Please retry later." xml:space="preserve">
+        <source>Sorry, this feature is not available yet. Please retry later.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="TYPE" xml:space="preserve">
+        <source>TYPE</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Tell us your feedback" xml:space="preserve">
+        <source>Tell us your feedback</source>
+        <note>Tell us your feedback</note>
+      </trans-unit>
+      <trans-unit id="Thai" xml:space="preserve">
+        <source>Thai</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Twitter" xml:space="preserve">
+        <source>Twitter</source>
+        <note>Twitter</note>
+      </trans-unit>
+      <trans-unit id="What do you want to do?" xml:space="preserve">
+        <source>What do you want to do?</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

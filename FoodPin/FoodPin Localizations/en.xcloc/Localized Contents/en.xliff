@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="FoodPin/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.2" build-num="14C18"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>FoodPin</source>
+        <target>FoodPin</target>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
+        <source>You need to grant the app access to your camera in order to take photos.</source>
+        <target>You need to grant the app access to your camera in order to take photos.</target>
+        <note>Privacy - Camera Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSPhotoLibraryUsageDescription" xml:space="preserve">
+        <source>You need to grant the app access to your photo library so you can pick your favorite restaurant photo.</source>
+        <target>You need to grant the app access to your photo library so you can pick your favorite restaurant photo.</target>
+        <note>Privacy - Photo Library Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="FoodPin/en.lproj/Localizable.strings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.2" build-num="14C18"/>
+    </header>
+    <body>
+      <trans-unit id="%@" xml:space="preserve">
+        <source>%@</source>
+        <target>%@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="ADDRESS" xml:space="preserve">
+        <source>ADDRESS</source>
+        <target>ADDRESS</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About" xml:space="preserve">
+        <source>About</source>
+        <target>About</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cafe" xml:space="preserve">
+        <source>Cafe</source>
+        <target>Cafe</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Camera" xml:space="preserve">
+        <source>Camera</source>
+        <target>Camera</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Choose your photo source" xml:space="preserve">
+        <source>Choose your photo source</source>
+        <target>Choose your photo source</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DESCRIPTION" xml:space="preserve">
+        <source>DESCRIPTION</source>
+        <target>DESCRIPTION</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Discover" xml:space="preserve">
+        <source>Discover</source>
+        <target>Discover</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Facebook" xml:space="preserve">
+        <source>Facebook</source>
+        <target>Facebook</target>
+        <note>Facebook</note>
+      </trans-unit>
+      <trans-unit id="Favorites" xml:space="preserve">
+        <source>Favorites</source>
+        <target>Favorites</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Fill in the restaurant address" xml:space="preserve">
+        <source>Fill in the restaurant address</source>
+        <target>Fill in the restaurant address</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Fill in the restaurant name" xml:space="preserve">
+        <source>Fill in the restaurant name</source>
+        <target>Fill in the restaurant name</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Fill in the restaurant phone" xml:space="preserve">
+        <source>Fill in the restaurant phone</source>
+        <target>Fill in the restaurant phone</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Fill in the restaurant type" xml:space="preserve">
+        <source>Fill in the restaurant type</source>
+        <target>Fill in the restaurant type</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="FoodPin" xml:space="preserve">
+        <source>FoodPin</source>
+        <target>FoodPin</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="GET STARTED" xml:space="preserve">
+        <source>GET STARTED</source>
+        <target>GET STARTED</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Instagram" xml:space="preserve">
+        <source>Instagram</source>
+        <target>Instagram</target>
+        <note>Instagram</note>
+      </trans-unit>
+      <trans-unit id="Mark as favorite" xml:space="preserve">
+        <source>Mark as favorite</source>
+        <target>Mark as favorite</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="NAME" xml:space="preserve">
+        <source>NAME</source>
+        <target>NAME</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="NEXT" xml:space="preserve">
+        <source>NEXT</source>
+        <target>NEXT</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="New Restaurant" xml:space="preserve">
+        <source>New Restaurant</source>
+        <target>New Restaurant</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Not yet available" xml:space="preserve">
+        <source>Not yet available</source>
+        <target>Not yet available</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="OK" xml:space="preserve">
+        <source>OK</source>
+        <target>OK</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="PHONE" xml:space="preserve">
+        <source>PHONE</source>
+        <target>PHONE</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Photo Library" xml:space="preserve">
+        <source>Photo Library</source>
+        <target>Photo Library</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Rate it" xml:space="preserve">
+        <source>Rate it</source>
+        <target>Rate it</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Rate us on App Store" xml:space="preserve">
+        <source>Rate us on App Store</source>
+        <target>Rate us on App Store</target>
+        <note>Rate us on App Store</note>
+      </trans-unit>
+      <trans-unit id="Remove from favorites" xml:space="preserve">
+        <source>Remove from favorites</source>
+        <target>Remove from favorites</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Reserve a table" xml:space="preserve">
+        <source>Reserve a table</source>
+        <target>Reserve a table</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Save" xml:space="preserve">
+        <source>Save</source>
+        <target>Save</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Search restaurants..." xml:space="preserve">
+        <source>Search restaurants...</source>
+        <target>Search restaurants...</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Share" xml:space="preserve">
+        <source>Share</source>
+        <target>Share</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Skip" xml:space="preserve">
+        <source>Skip</source>
+        <target>Skip</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Sorry, this feature is not available yet. Please retry later." xml:space="preserve">
+        <source>Sorry, this feature is not available yet. Please retry later.</source>
+        <target>Sorry, this feature is not available yet. Please retry later.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="TYPE" xml:space="preserve">
+        <source>TYPE</source>
+        <target>TYPE</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Tell us your feedback" xml:space="preserve">
+        <source>Tell us your feedback</source>
+        <target>Tell us your feedback</target>
+        <note>Tell us your feedback</note>
+      </trans-unit>
+      <trans-unit id="Thai" xml:space="preserve">
+        <source>Thai</source>
+        <target>Thai</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Twitter" xml:space="preserve">
+        <source>Twitter</source>
+        <target>Twitter</target>
+        <note>Twitter</note>
+      </trans-unit>
+      <trans-unit id="What do you want to do?" xml:space="preserve">
+        <source>What do you want to do?</source>
+        <target>What do you want to do?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
